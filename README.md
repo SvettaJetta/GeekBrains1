@@ -1,2 +1,2 @@
-# GeekBrains1
+# GeekBrains
 Homework C# beginer1
